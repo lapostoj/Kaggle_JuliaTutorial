@@ -1,0 +1,8 @@
+# Pictures folder (too heavy to put in the git repo by default)
+train/
+trainResized/
+test/
+testResized/
+
+# Source files provided by Kaggle
+source-code-files/

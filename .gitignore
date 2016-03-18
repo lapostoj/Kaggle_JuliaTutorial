@@ -6,3 +6,6 @@ testResized/
 
 # Source files provided by Kaggle
 source-code-files/
+
+#Submission files
+*Submission.csv
